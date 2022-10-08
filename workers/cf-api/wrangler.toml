@@ -1,0 +1,4 @@
+name = "cf-api"
+main = "src/index.js"
+compatibility_date = "2022-10-07"
+kv_namespaces = [{ binding = "CF_API", id = "e79edc7d675c436ca2ef645b4438b2c0", preview_id = "1d137af1e9414beaa9c120fbcffc0412" }]

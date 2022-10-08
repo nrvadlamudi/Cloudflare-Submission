@@ -1,0 +1,6 @@
+Git Credentials:
+Username: PImzit1uLgkmzdzCLbAPcDp0m9oKNE
+Password: Cr8ChH64
+
+Workers URL: https://cf-api.nvadlamudi.workers.dev/
+Pages URL: https://nvadlamudi.pages.dev/
